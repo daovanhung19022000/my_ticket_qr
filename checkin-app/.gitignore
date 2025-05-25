@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+.env
+.env.local
+*.log
+package-lock.json
+yarn.lock
+
+# Vue
+frontend/dist/
+frontend/node_modules/
+frontend/.env
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Others
+*.zip
+*.tmp
